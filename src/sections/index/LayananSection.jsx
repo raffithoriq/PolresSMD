@@ -11,7 +11,7 @@ export default function LayananSection() {
       icon: (
         <path strokeLinecap="round" strokeLinejoin="round" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
       ),
-      link: "/layanan/sim",
+      link: "/spkt",
     },
     {
       title: "Layanan SIM",
@@ -20,7 +20,7 @@ export default function LayananSection() {
       icon: (
         <path strokeLinecap="round" strokeLinejoin="round" d="M9 17v-6h13M3 6h18M3 12h6m-6 6h6" />
       ),
-      link: "/layanan/sim",
+      link: "/sim",
     },
     {
       title: "Layanan BPKB dan STNK",
@@ -29,7 +29,7 @@ export default function LayananSection() {
       icon: (
         <path strokeLinecap="round" strokeLinejoin="round" d="M4 6h16M4 10h16M4 14h10M4 18h6" />
       ),
-      link: "/layanan/sim",
+      link: "/bpkb",
     },
     {
       title: "Layanan SKCK",
@@ -38,7 +38,7 @@ export default function LayananSection() {
       icon: (
         <path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" />
       ),
-      link: "/layanan/sim",
+      link: "/skck",
     },
     {
       title: "Layanan SP2HP",
@@ -47,7 +47,7 @@ export default function LayananSection() {
       icon: (
         <path strokeLinecap="round" strokeLinejoin="round" d="M15 12H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z" />
       ),
-      link: "/layanan/sim",
+      link: "/sp2hp",
     },
     {
       title: "Izin Keramaian",
@@ -56,7 +56,7 @@ export default function LayananSection() {
       icon: (
         <path strokeLinecap="round" strokeLinejoin="round" d="M12 4v16m8-8H4" />
       ),
-      link: "/layanan/sim",
+      link: "/keramaian",
     },
     {
       title: "Pengawalan Jalan",
@@ -65,7 +65,7 @@ export default function LayananSection() {
       icon: (
         <path strokeLinecap="round" strokeLinejoin="round" d="M3 10h18M3 14h18" />
       ),
-      link: "/layanan/sim",
+      link: "/pengawalan",
     },
     {
       title: "Pengamanan Objek Khusus",
@@ -74,7 +74,7 @@ export default function LayananSection() {
       icon: (
         <path strokeLinecap="round" strokeLinejoin="round" d="M5 5h14v14H5z" />
       ),
-      link: "/layanan/sim",
+      link: "/pengamanan",
     },
   ];
 
