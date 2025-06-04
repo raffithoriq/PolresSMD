@@ -10,10 +10,10 @@ import StrukturSection from '@/sections/about/StrukturSection';
 export default function Home() {
   return (
     <Layout title="About">
-      <LambangSection />
-      <VisiMisiSection />
-      <SejarahSection />
-      <StrukturSection />
+      <section id="arti-logo"><LambangSection /></section>
+      <section id="visi-misi"><VisiMisiSection /></section>
+      <section id="sejarah"><SejarahSection /></section>
+      <section id="struktur"><StrukturSection /></section>
     </Layout>
   );
 }

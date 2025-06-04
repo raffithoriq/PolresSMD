@@ -22,10 +22,10 @@ export default function Header() {
       label: 'About',
       href: '/about',
       subLinks: [
-        { label: 'Arti logo', href: '/about/visi-misi' },
-        { label: 'Visi & Misi', href: '/about/struktur' },
-        { label: 'Sejarah', href: '/about/struktur' },
-        { label: 'Struktur', href: '/about/struktur' },
+        { label: 'Arti logo', href: '/about#arti-logo' },
+        { label: 'Visi & Misi', href: '/about#visi-misi' },
+        { label: 'Sejarah', href: '/about#sejarah' },
+        { label: 'Struktur', href: '/about#struktur' },
       ],
     },
     {
