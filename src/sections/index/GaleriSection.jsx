@@ -1,34 +1,34 @@
 export default function GaleriSection() {
   const galeri = [
     {
-      imgSrc: "https://source.unsplash.com/400x300/?police,station",
+      imgSrc: "https://selasar.co/assets/images/news/2025/06/polresta-samarinda-raih-skor-citra-publik-9-dari-10-dinilai-aktif-humanis-dan-transparan-683ecc0c31431.jpeg",
       title: "Kantor Polisi",
       description: "Foto kantor polisi pusat dengan layanan lengkap dan ramah.",
     },
     {
-      imgSrc: "https://source.unsplash.com/400x300/?police,car",
-      title: "Patroli Jalan",
+      imgSrc: "https://polrestasamarinda.id/wp-content/uploads/2025/05/1000010555-1024x578.jpg",
+      title: "Patroli",
       description: "Kendaraan patroli yang siap menjaga keamanan jalan raya.",
     },
     {
-      imgSrc: "https://source.unsplash.com/400x300/?community,police",
+      imgSrc: "https://polrestasamarinda.id/wp-content/uploads/2025/05/IMG-20250528-WA0281-1024x768.jpg",
       title: "Sosialisasi Masyarakat",
       description: "Kegiatan polisi bersama masyarakat untuk edukasi keamanan.",
     },
     {
-      imgSrc: "https://source.unsplash.com/400x300/?police,helmet",
-      title: "Peralatan Polisi",
-      description: "Berbagai perlengkapan yang digunakan oleh petugas polisi.",
+      imgSrc: "https://polrestasamarinda.id/wp-content/uploads/2025/06/1000356487-853x1024.jpg",
+      title: "Event",
+      description: "Tim Black List FDT 37 Polresta Samarinda Raih Prestasi di Kejurprov Road Race Piala Wali Kota Balikpapan 2025",
     },
     {
-      imgSrc: "https://source.unsplash.com/400x300/?police,team",
-      title: "Tim Khusus",
-      description: "Tim khusus polisi dalam penanganan kasus penting.",
+      imgSrc: "https://polrestasamarinda.id/wp-content/uploads/2025/06/1000354899-853x1024.jpg",
+      title: "Upacara",
+      description: "Upacara Hari Lahir Pancasila 2025",
     },
     {
-      imgSrc: "https://source.unsplash.com/400x300/?police,building",
-      title: "Gedung Pelayanan",
-      description: "Fasilitas gedung pelayanan masyarakat di kepolisian.",
+      imgSrc: "https://polrestasamarinda.id/wp-content/uploads/2025/06/1000118173-1024x768.jpg",
+      title: "Pengamanan",
+      description: "POLSEK SUNGAI PINANG KAWAL PENGAMANAN UPACARA HARI LAHIR PANCASILA TAHUN 2025",
     },
   ];
 

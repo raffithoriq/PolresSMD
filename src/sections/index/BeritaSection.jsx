@@ -2,29 +2,29 @@ export default function InformasiBeritaSection() {
     const berita = [
         {
             id: 1,
-            title: "Patroli Malam Personil Polsek Sangkulirang Jaga Keamanan di Kantor Pos",
-            date: "2025-06-03",
+            title: "Kapolresta Samarinda Pimpin Upacara Penghormatan Terakhir Alm. Aipda Yagung Trisyantho",
+            date: "2025-06-04",
             summary:
-                "Sangkulirang, 03 Juni 2025– Dalam upaya menjaga keamanan dan ketertiban masyarakat, personil Polsek Sangkulirang melaksanakan kegiatan patroli di kantor pos Kecamatan Sangkulirang pada malam hari. Patroli ini dilakukan untuk memastikan lingkungan sekitar tetap aman, terutama menjelang waktu pengiriman barang yang meningkat.",
-            link: "/berita/1",
+                "Polresta Samarinda – Suasana Duka Menyelimuti Keluarga Besar Polresta Samarinda Polda Kalimantan Timur. Salah Satu.",
+            link: "/loading",
             image: "images/foto/1.jpg",
         },
         {
             id: 2,
-            title: "Polres Kutim Permudah Layanan Pembuatan SKCK Bagi Masyarakat",
-            date: "2025-06-03",
+            title: "POLSEK PALARAN WUJUDKAN RASA AMAN MELALUI KEGIATAN KRYD",
+            date: "2025-06-04",
             summary:
-                "Polres Kutai Timur terus meningkatkan kualitas pelayanan publik, salah satunya melalui kemudahan dalam proses pembuatan Surat Keterangan Catatan Kepolisian (SKCK). Pelayanan ini menjadi salah satu bentuk komitmen Polri dalam memberikan kemudahan dan kenyamanan bagi masyarakat yang membutuhkan dokumen pendukung untuk keperluan administrasi.",
-            link: "/berita/2",
+                "Guna terwujudnya stabilitas keamanan dan ketertiban di masyarakat polri dalam hal ini Polsek Palaran, Polresta Samarinda, Polda Kaltim selaku pelindung, pelayan dan pengayoman masyarakat selalu hadir melalui kegiatan patroli dalam rangka harkamtibmas.",
+            link: "/loading",
             image: "images/foto/2.jpg",
         },
         {
             id: 3,
-            title: "Pengecekan Tahanan di Rutan Polres Kutim",
-            date: "2025-05-30",
+            title: "Si Propam Polresta Samarinda Melakukan Gaktibplin terhadap Personil",
+            date: "2025-06-04",
             summary:
-                "Dalam rangka memastikan keamanan dan ketertiban di lingkungan rumah tahanan, personel Polres Kutai Timur melaksanakan pengecekan rutin terhadap para tahanan yang berada di Rutan Polres Kutim, Jumat (30/5/2025).",
-            link: "/berita/3",
+                "Polresta Samarinda — Di Halaman Mako Polresta Samarinda personel Seksi Profesi dan Pengamanan (Si Propam) Polresta Samarinda menggelar kegiatan Penegakan Ketertiban dan Disiplin (Gaktibplin) terhadap anggota Polresta Samarinda. Kegiatan ini dipimpin langsung oleh Kasi Propam Polresta Samarinda, AKP Sujatmiko Amron, S.H., dengan melibatkan sejumlah personel Propam. Rabu (04/06/2025).",
+            link: "/loading",
             image: "images/foto/3.jpg",
         },
     ];

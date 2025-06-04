@@ -5,22 +5,22 @@ export default function MediaSosialKamiSection() {
     {
       name: "Instagram",
       icon: <FaInstagram className="text-pink-500 w-6 h-6" />,
-      url: "#",
+      url: "https://www.instagram.com/polrestasamarinda/",
     },
     {
       name: "Twitter",
       icon: <FaTwitter className="text-blue-400 w-6 h-6" />,
-      url: "https://x.com/PolresKutim",
+      url: "https://x.com/Polresta_SMD",
     },
     {
       name: "TikTok",
       icon: <FaTiktok className="text-black w-6 h-6" />,
-      url: "#",
+      url: "https://www.tiktok.com/@polresta_samarinda",
     },
     {
       name: "Facebook",
       icon: <FaFacebookF className="text-blue-600 w-6 h-6" />,
-      url: "https://www.facebook.com/ResKutim/",
+      url: "https://www.facebook.com/Polrestsamarinda",
     },
   ];
 

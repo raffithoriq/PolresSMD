@@ -49,8 +49,8 @@ export default function Footer() {
             <div>
               <h4 className="text-lg font-semibold mb-4">Contact Details</h4>
               <p className="text-senary text-sm leading-relaxed mb-2">
-                Jl. Bhayangkara, Tlk. Lingga, Kec. Sangatta Utara, <br/>
-                Kabupaten Kutai Timur, Kalimantan Timur 75683
+                Jl. Slamet Riyadi No.1, Karang Asam Ulu, Kec. Sungai Kunjang, <br />
+                Kota Samarinda, Kalimantan Timur 75126
               </p>
               <p className="text-senary text-sm">
                 Phone:{" "}
@@ -61,18 +61,18 @@ export default function Footer() {
               <p className="text-senary text-sm">
                 Email:{" "}
                 <a href="mailto:humaspolrestasamarinda@gmail.com" className="hover:text-quinary underline">
-                  humaspolrestakutim@gmail.com
+                  humaspolrestasamarinda@gmail.com
                 </a>
               </p>
               <p className="text-senary text-sm">
                 Website:{" "}
                 <a
-                  href="https://www.polreskutim.id/"
+                  href="https://polrestasamarinda.id/"
                   className="hover:text-quinary underline"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  polreskutim.id
+                  polrestasamarinda.id
                 </a>
               </p>
             </div>
@@ -82,7 +82,7 @@ export default function Footer() {
           <div className="w-full lg:w-[260px]">
             <h4 className="text-lg font-semibold mb-4">Lokasi Kami</h4>
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.654916398071!2d117.60479629999999!3d0.5185538!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x320a4b23b737fcd5%3A0x79b9c4f66324586c!2sPolres%20Kutai%20Timur!5e0!3m2!1sid!2sid!4v1748974145959!5m2!1sid!2sid"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.6561393849565!2d117.11577630000001!3d-0.5166096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2df67e481e848a23%3A0xd8697b4e366f75cf!2sPolresta%20Samarinda!5e0!3m2!1sid!2sid!4v1749059072220!5m2!1sid!2sid"
               width="100%"
               height="200"
               style={{ border: 0 }}
@@ -97,10 +97,10 @@ export default function Footer() {
 
         {/* Bottom Bar */}
         <div className="border-t border-gray-700 mt-10 pt-6 flex flex-col md:flex-row justify-between items-center gap-4 text-senary text-sm">
-          <p>© {new Date().getFullYear()} POLRESTA KUTAI TIMUR | All Rights Reserved.</p>
+          <p>© {new Date().getFullYear()} POLRESTA SAMARINDA | All Rights Reserved.</p>
           <div className="flex gap-4 text-xl">
             <a
-              href="#"
+              href="https://www.tiktok.com/@polresta_samarinda"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="TikTok"
@@ -108,13 +108,13 @@ export default function Footer() {
             >
               <FontAwesomeIcon icon={faTiktok} />
             </a>
-            <a href="#" target="_blank" rel="noopener noreferrer" className="hover:text-quinary">
+            <a href="https://www.facebook.com/Polrestsamarinda" target="_blank" rel="noopener noreferrer" className="hover:text-quinary">
               <FontAwesomeIcon icon={faFacebook} />
             </a>
-            <a href="#" target="_blank" rel="noopener noreferrer" className="hover:text-quinary">
+            <a href="https://www.instagram.com/polrestasamarinda/" target="_blank" rel="noopener noreferrer" className="hover:text-quinary">
               <FontAwesomeIcon icon={faInstagram} />
             </a>
-            <a href="#" target="_blank" rel="noopener noreferrer" className="hover:text-quinary">
+            <a href="https://x.com/Polresta_SMD" target="_blank" rel="noopener noreferrer" className="hover:text-quinary">
               <FontAwesomeIcon icon={faTwitter} />
             </a>
 
@@ -124,3 +124,4 @@ export default function Footer() {
     </footer>
   );
 }
+

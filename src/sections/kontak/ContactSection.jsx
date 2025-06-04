@@ -13,7 +13,7 @@ const ContactSection = () => {
               <MapPin className="text-black" />
             </div>
             <p className="text-sm leading-relaxed">
-              Jl. Bhayangkara, Tlk. Lingga, Kec. Sangatta Utara, Kabupaten Kutai Timur, Kalimantan Timur 75683
+              Jl. Slamet Riyadi No.1, Karang Asam Ulu, Kec. Sungai Kunjang, Kota Samarinda, Kalimantan Timur 75126
             </p>
           </div>
 
@@ -23,10 +23,10 @@ const ContactSection = () => {
               <Link className="text-black" />
             </div>
             <ul className="list-none flex flex-col items-center text-sm space-y-1">
-              <li>Facebook: @PolresKutaiTimur</li>
-              <li>Twitter: @Polresta_Kutim</li>
-              <li>Instagram: @polrestakutim</li>
-              <li>Tiktok: @polresta_kutim</li>
+              <li>Facebook: @Polrestsamarinda</li>
+              <li>Twitter: @Polresta_SMD</li>
+              <li>Instagram: @polrestasamarinda</li>
+              <li>Tiktok: @polresta_samarinda</li>
             </ul>
           </div>
 

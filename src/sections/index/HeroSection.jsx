@@ -13,7 +13,7 @@ const HeroSection = () => {
 
       <div className="relative z-10 text-center max-w-7xl mx-auto px-4 pt-6 pb-16">
         <h1 className="text-5xl text-white sm:text-6xl md:text-7xl lg:text-8xl font-bold leading-tight mb-10 mt-[-6rem]">
-          <span className="block mb-2">Polresta Kutai Timur</span>
+          <span className="block mb-2">Polresta Samarinda</span>
         </h1>
 
         <p className="mt-[-1rem] text-sm sm:text-base md:text-lg text-white leading-relaxed max-w-3xl mx-auto">
