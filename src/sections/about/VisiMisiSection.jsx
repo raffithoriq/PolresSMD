@@ -8,7 +8,7 @@ const VisiMisiSection = () => {
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-gray-800 mb-4">Visi & Misi Polri</h2>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-            Komitmen Polri dalam menjaga keamanan dan memberikan pelayanan terbaik kepada seluruh masyarakat Indonesia.
+            Komitmen Polresta Samarinda dalam menjaga keamanan dan memberikan pelayanan terbaik kepada seluruh masyarakat Indonesia.
           </p>
         </div>
 

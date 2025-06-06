@@ -5,7 +5,7 @@ const ContactSection = () => {
   return (
     <section className="py-20 text-white">
       <div className="max-w-7xl mx-auto px-6 text-center">
-        <h2 className="text-4xl font-bold text-black mb-16">Contact Information</h2>
+        <h2 className="text-4xl font-bold text-black mb-16">Informasi Kontak</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {/* Address */}
           <div className="relative bg-gradient-to-b from-white to-gray-100 border border-yellow-500 rounded-lg p-6 pt-12 text-black">

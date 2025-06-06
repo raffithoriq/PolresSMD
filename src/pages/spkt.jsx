@@ -6,7 +6,7 @@ import SpktSection from '@/sections/layanan/SpktSection';
 
 export default function Home() {
     return (
-        <Layout title="Sim">
+        <Layout title="SPKT">
             <SpktSection />
         </Layout>
     );

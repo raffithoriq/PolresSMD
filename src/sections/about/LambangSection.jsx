@@ -6,9 +6,9 @@ const LambangSection = () => {
     <section className="py-20 bg-gradient-to-b ">
       <div className="max-w-5xl mx-auto px-6">
         <div className="text-center mb-12">
-          <h2 className="text-4xl font-extrabold text-gray-800">Arti Lambang Polda Kalimantan Timur</h2>
+          <h2 className="text-4xl font-extrabold text-gray-800">Arti Lambang Polresta Samarinda</h2>
           <p className="mt-4 text-gray-600 text-lg">
-            Lambang Polda Kaltim menggambarkan identitas dan semangat kepolisian daerah dalam melindungi masyarakat Kalimantan Timur.
+            Lambang Polresta Samarinda menggambarkan identitas dan semangat kepolisian daerah dalam melindungi masyarakat Kalimantan Timur.
           </p>
         </div>
 
@@ -25,7 +25,7 @@ const LambangSection = () => {
             <ShieldCheck className="w-8 h-8 text-blue-600 mt-1" />
             <div>
               <h4 className="font-semibold text-gray-800">Perisai</h4>
-              <p className="text-gray-600 text-sm">Melambangkan perlindungan dan keamanan yang diberikan Polda Kaltim kepada masyarakat.</p>
+              <p className="text-gray-600 text-sm">Melambangkan perlindungan dan keamanan yang diberikan Polresta Samarinda kepada masyarakat.</p>
             </div>
           </div>
 
@@ -33,7 +33,7 @@ const LambangSection = () => {
             <Star className="w-8 h-8 text-yellow-500 mt-1" />
             <div>
               <h4 className="font-semibold text-gray-800">Bintang</h4>
-              <p className="text-gray-600 text-sm">Simbol Pancasila sebagai landasan moral dalam pengabdian Polda Kaltim.</p>
+              <p className="text-gray-600 text-sm">Simbol Pancasila sebagai landasan moral dalam pengabdian Polresta Samarinda.</p>
             </div>
           </div>
 
@@ -57,7 +57,7 @@ const LambangSection = () => {
             <ScrollText className="w-8 h-8 text-purple-600 mt-1" />
             <div>
               <h4 className="font-semibold text-gray-800">Tulisan "KALIMANTAN TIMUR"</h4>
-              <p className="text-gray-600 text-sm">Menunjukkan identitas wilayah hukum Polda Kalimantan Timur.</p>
+              <p className="text-gray-600 text-sm">Menunjukkan identitas wilayah hukum Polresta Samarinda.</p>
             </div>
           </div>
         </div>
